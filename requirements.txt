@@ -1,0 +1,5 @@
+torch>=1.0.0
+numpy>=1.15.0
+scipy>=1.5
+FrEIA>=0.2
+tqdm>=4.64.0
